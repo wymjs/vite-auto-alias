@@ -1,6 +1,6 @@
 {
 	"name": "@wymjs/vite-auto-alias",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"type": "module",
 	"description": "將 tsconfig.json 的 alias 同步到 vite alias 裡",
 	"main": "dist/index.js",
